@@ -15,6 +15,11 @@
 
 \>> [Use Cases | 我们的用户](https://www.google.com/search?q=%22powered+by+Nezha+Monitoring%22+OR+%22powered+by+%E5%93%AA%E5%90%92%E7%9B%91%E6%8E%A7%22) (Google)  
 
+## 安装
+```
+curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh  -o nezha.sh && chmod +x nezha.sh
+```
+
 ## User Guide
 
 - [English](https://nezhahq.github.io/en_US/index.html)
