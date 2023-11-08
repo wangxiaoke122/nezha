@@ -104,6 +104,9 @@ You can change the dashboard language in the settings page (`/setting`) after th
 <a href="https://github.com/ch8o" title="no-name-now">
   <img src="https://avatars.githubusercontent.com/u/9103372?v=4" width="50;" alt="no-name-now"/>
 </a>
+<a href="https://github.com/wangxiaoke122" title="wangxiaoke122">
+  <img src="https://avatars.githubusercontent.com/u/60802741?v=4" width="50;" alt="wangxiaoke122"/>
+</a>
 <a href="https://github.com/iilemon" title="Sean">
   <img src="https://avatars.githubusercontent.com/u/33201711?v=4" width="50;" alt="Sean"/>
 </a>
@@ -145,9 +148,6 @@ You can change the dashboard language in the settings page (`/setting`) after th
 </a>
 <a href="https://github.com/unclezs" title="unclezs">
   <img src="https://avatars.githubusercontent.com/u/42318775?v=4" width="50;" alt="unclezs"/>
-</a>
-<a href="https://github.com/wangxiaoke122" title="wangxiaoke122">
-  <img src="https://avatars.githubusercontent.com/u/60802741?v=4" width="50;" alt="wangxiaoke122"/>
 </a>
 <a href="https://github.com/ysicing" title="缘生">
   <img src="https://avatars.githubusercontent.com/u/8605565?v=4" width="50;" alt="缘生"/>
