@@ -16,10 +16,17 @@
 \>> [Use Cases | 我们的用户](https://www.google.com/search?q=%22powered+by+Nezha+Monitoring%22+OR+%22powered+by+%E5%93%AA%E5%90%92%E7%9B%91%E6%8E%A7%22) (Google)  
 
 ## 安装
+## 安装
+在面板服务器中，运行安装脚本
 ```
 curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh  -o nezha.sh && chmod +x nezha.sh
+sudo ./nezha.sh
 ```
-
+如果你的面板服务器位于中国大陆，可以使用镜像：
+```
+curl -L https://jihulab.com/nezha/dashboard/-/raw/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
+sudo CN=true ./nezha.sh
+```
 ## User Guide
 
 - [English](https://nezhahq.github.io/en_US/index.html)
