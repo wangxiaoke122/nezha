@@ -27,6 +27,10 @@ sudo ./nezha.sh
 curl -L https://jihulab.com/nezha/dashboard/-/raw/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
 sudo CN=true ./nezha.sh
 ```
+备用,面板安装指定版本
+```
+VERSION=20.5 bash <(curl -Ls https://raw.githubusercontent.com/eooce/scripts/master/nezha.sh)
+```
 ## User Guide
 
 - [English](https://nezhahq.github.io/en_US/index.html)
